@@ -1,0 +1,20 @@
+#MainMenu{
+    visibility: hidden;
+}
+footer, header{
+    visibility: hidden;
+}
+span.css-10trblm.e16nr0p30{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: -10px !important;
+}
+
+.css-2sijqm a{
+    text-decoration: none !important;
+}
+.css-znku1x a{
+    text-decoration: none !important;
+}
